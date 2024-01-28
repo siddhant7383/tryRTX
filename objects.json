@@ -1,0 +1,77 @@
+[    
+    
+
+{
+    "type": 0,
+    "position": [0, 0, -50100.0],
+    "size": 50000,
+    "color": [1, 1, 0],
+    "emmision": [0, 0, 0],
+    "roughness":0
+},
+{
+    "type": 0,
+    "position": [0, -50050.0, 0],
+    "size": 50000,
+    "color": [1, 1, 1],
+    "emmision": [0, 0, 0],
+    "roughness":0
+},
+{
+    "type": 0,
+    "position": [0, 50100.0, 0],
+    "size": 50000,
+    "color": [1, 1, 1],
+    "emmision": [0, 0, 0],
+    "roughness":0
+},
+{
+    "type": 0,
+    "position": [0, 0, 50200.0],
+    "size": 50000,
+    "color": [0, 1, 0],
+    "emmision": [0, 0, 0],
+    "roughness":0
+},
+{
+    "type": 0,
+    "position": [50100.0, 0, 0],
+    "size": 50000,
+    "color": [1, 0, 0],
+    "emmision": [0, 0, 0],
+    "roughness":0
+},
+{
+    "type": 0,
+    "position": [-50100.0, 0, 0],
+    "size": 50000,
+    "color": [0, 0, 1],
+    "emmision": [0, 0, 0],
+    "roughness":0
+},
+    {
+        "type": 0,
+        "position": [0.0, 120.0, 150.0],
+        "size": 50,
+        "color": [0, 0, 0],
+        "emmision": [2, 2, 2],
+        "roughness":0
+    },
+    {
+        "type": 0,
+        "position": [0.0, 120.0, 0.0],
+        "size": 50,
+        "color": [0, 0, 0],
+        "emmision": [2, 2, 2],
+        "roughness":0
+    },
+    
+    {
+        "type": 0,
+        "position": [0.0, 0.0, 50.0],
+        "size": 25,
+        "color": [1, 1, 1],
+        "emmision": [0, 0, 0],
+        "roughness":1
+    }
+]
