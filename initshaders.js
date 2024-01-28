@@ -14,7 +14,7 @@ function loadShader(ctx, type, source) {
   ctx.compileShader(shader);
 
   if (!ctx.getShaderParameter(shader, ctx.COMPILE_STATUS)) {
-    console.warn(
+    alert(
       `An error occurred compiling the shaders: ${ctx.getShaderInfoLog(shader)}`
     );
     ctx.deleteShader(shader);
